@@ -28,3 +28,4 @@ Look at [this](https://adamjenkins.github.io).
 ##### Headline 5
 ###### Headline 6
 
+![Photo](china.jpg "Nice Photo")
