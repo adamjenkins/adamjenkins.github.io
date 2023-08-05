@@ -1,5 +1,5 @@
 # This is a test
-## Hello Kyoto
+## Hello Kyoto and the Kansai area
 I don't know how this will look, but am excited to see.
 
 Please *please* keep the _deadline_.
